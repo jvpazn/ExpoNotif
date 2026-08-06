@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "meuapp",
+    "slug": "meuapp",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "d2f1d9f6-8cac-428a-9aed-c4cd519b92a0"
+      }
+    }
+  }
+}
